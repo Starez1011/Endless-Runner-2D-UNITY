@@ -1,0 +1,84 @@
+# This .gitignore file is for Unity projects.
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# User-specific files #
+#######################
+*.swp
+*.swo
+*.sublime-workspace
+
+# Visual Studio / Mono #
+########################
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated files #
+#########################
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Build/
+Builds/
+Assets/StreamingAssets/
+MemoryCaptures/
+*.pidb
+*.apk
+*.aab
+*.unitypackage
+*.unityweb
+*.webloc
+
+# Logs and crash reports #
+##########################
+*.log
+*.stacktrace
+
+# WebGL files #
+###############
+Build/
+
+# Visual Studio Code #
+######################
+.vscode/
+
+# Rider #
+#########
+.idea/
+*.sln.iml
+*.sln.dotSettings
+
+# macOS #
+#########
+*.DS_Store
+
+# Windows #
+###########
+Thumbs.db
+Desktop.ini
+
+# Linux #
+#########
+*~
